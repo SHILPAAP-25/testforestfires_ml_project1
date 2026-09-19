@@ -1,4 +1,5 @@
-Flask
+flask
 numpy
 pandas
-scikit-learnS
+scikit-learn
+gunicorn
