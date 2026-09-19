@@ -7,7 +7,7 @@ import pandas as pd
 
 from sklearn.preprocessing import StandardScaler
 
-appliaction=Flask(__name__)
+application=Flask(__name__)
 app=application
 
 ##import ridge regressor and stanadrd scaler pickle 
